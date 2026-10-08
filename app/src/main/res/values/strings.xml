@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SARA</string>
+    <string name="accessibility_service_label">SARA AI Assistant Interaction Service</string>
+    <string name="accessibility_service_description">Enables SARA to perform user-authorized voice actions such as clicking buttons, scrolling views, and navigating messaging apps upon explicit verbal or tap confirmation.</string>
+</resources>

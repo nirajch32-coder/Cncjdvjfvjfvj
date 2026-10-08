@@ -1,0 +1,6 @@
+{
+  "name": "SARA",
+  "description": "SARA - Futuristic AI Personal Voice Assistant with Gemini intelligence, anime avatar, Hindi/English voice interaction, memory hub, and settings console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
